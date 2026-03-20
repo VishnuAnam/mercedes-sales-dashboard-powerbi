@@ -71,7 +71,7 @@ Key Highlights:
 * Customer fuel type trends
 
 📸 Dashboard Preview:
-![CLS 63](screenshots/cls63.png)
+![CLS 63](cls63.png)
 
 ---
 
@@ -86,7 +86,7 @@ Key Highlights:
 * Regional contribution comparison
 
 📸 Dashboard Preview:
-![SLS AMG](screenshots/sls_amg.png)
+![SLS AMG](sls_amg.png)
 
 
 
@@ -101,7 +101,7 @@ Key Highlights:
 * Customer preferences
 
 📸 Dashboard Preview:
-![AMG GT 63](screenshots/amg_gt63.png)
+![AMG GT 63](amg_gt63.png)
 
 
 
@@ -116,7 +116,7 @@ Key Highlights:
 * Strong revenue contribution
 
 📸 Dashboard Preview:
-![AMG G 63](screenshots/amg_g63.png)
+![AMG G 63](amg_g63.png)
 
 
 
@@ -175,29 +175,10 @@ The dashboard follows a premium dark theme inspired by Mercedes-Benz branding, f
 
 
 
-## 📁 Project Structure
-
-
-mercedes-sales-dashboard-powerbi/
-│
-├── README.md
-├── data/
-│   └── mercedes_sales_data.csv
-├── dashboard/
-│   └── mercedes_dashboard.pbix
-├── screenshots/
-│   ├── overview.png
-│   ├── cls63.png
-│   ├── sls_amg.png
-│   ├── amg_gt63.png
-│   └── amg_g63.png
 
 
 
 
-📸 Dashboard Overview
-
-![Overview](screenshots/overview.png)
 
 
 
